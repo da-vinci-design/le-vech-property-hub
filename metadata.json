@@ -1,0 +1,6 @@
+{
+  "name": "Le Vech Property Hub",
+  "description": "A comprehensive real estate broker application with multi-lingual support, search capabilities, and secure admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
